@@ -21,40 +21,34 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: test@example.org
-phone: 888 888 88 88
+phone: +254 791 898 286
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Ruiru, Nairobi, Arch Business Centre
+  city: Nairobi
   postcode: '94305'
-  country: United States
-  country_code: US
+  country: Kenya
+  country_code: Kenya
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '-0.023559'
+  longitude: '37.906193'
+directions: Arch Business Centre, 1st Floor R7, Along Eastern Bypass Near Naivas
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Monday-Friday 08:00 to 17:00'
+appointment_url: 'https://calendly.com/bonfaceosindi'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/BonfaceOsindi'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'https://join.skype.com/invite/L7Wdc0fxsAaa'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
-
+    link: 'https://keybase.io/bonfaceosindi'
+  
 # Site header
 
 main_menu:
@@ -68,7 +62,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: 'Jan 2, 2022'
 time_format: '3:04 PM'
 address_format: en-us
 
@@ -113,7 +107,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: January 2022
   citation_style: apa
 projects:
   post_view: 2
