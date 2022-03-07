@@ -3,25 +3,26 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc. Applied Statistics with Programming
+    institution: Murang'a University of Technology
+    year: 2022
+  - course: Certificate in MIT
+    institution: eMobilis Technology Institute
+    year: May-Aug 2019
+  - course: Fundamentals of Digital Marketing
+    institution: The Open University
+    year:  Jul 2019
 email: ""
 highlight_name: true
 interests:
+- Data Analytics
+- Machine Learning
+- Statistics
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Cyber Crafts Academy
+  url: https://cybercraftsacademy.com/
+role: Instructor/Content Manager
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +32,47 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/BonfaceOsindi
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/BonfaceOsindi
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/bonface-osindi-87272918a/
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Bonface Osindi
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bonface Osindi is an instructor at Cyber Crafts Academy. His research interests include Data Analytics, Machine Learning and Statistics. He leads Data Analytics classes and curates course materials at Cyber Crafts Academy. This is a software and technology company that trains and develops systems that help professionals and organisations to scale up rapidly.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His analytical skills are but not limited to;
+
+R Programmig: statistical analysis, data cleaning and manipulation with tidyverse, dealing with missing values, visualization and machine learning.
+
+Supervised ML : linear, logistics regression, LDA, QDA, SVM, KNN, randomforest, bagging, boosting, naivebayes, decision trees, poisson regression.
+
+Unsupervised ML: K-means, PCA and hierarchical clustering.
+
+Data mining: Rattle (using popular algorithms including association Rule mining)
+
+Data Visualization: Tableau, Google Data studio, ggplot2, Esquisse, plotly and Excel Charts.
+
+MySQL: understanding of relational databases and querying databases in workbench and with MySQL and dbplyr.
+
+Excel: Basic to Advanced Excel (Summaries using Pivot Tables, Scenario Analysis, Solver, data.table, What if Analysis, Functions and Statistical Analysis.
+
+Presentation skills: PowerPoint, Google Slides, Rmarkdown and Rshiny.
+
+Time series: forecasting using ARIMA models.
+
+Data collection: knowledge of research design and survey tools such as Google Forms.
+
+SPSS: statistical analysis and data visualization.
+
+Digital marketing: Web analytics using Google analytics.
+
+Other Skills
+
+Willingness to learn, Leadership Skills, Team-oriented, Business Acumen, Perseverance, Creativity, High Adaptability, Intrinsic Motivation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
